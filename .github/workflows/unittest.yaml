@@ -5,6 +5,7 @@ on:
       - main
       - dev
       - issue/**
+      - poetry-init
   pull_request:
     branches:
       - main

@@ -6,6 +6,7 @@ on:
       - dev
       - issue/**
       - fix-build
+      - poetry-init
 
 jobs:
   validate_focus:
